@@ -28,4 +28,4 @@ import { EnvConfiguration } from './config/env.config';
     SeedModule,
   ]
 })
-export class AppModule { }
+export class AppModule {}
